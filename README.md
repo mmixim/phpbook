@@ -1,1 +1,1 @@
-Hello WORLD
+миру мир
